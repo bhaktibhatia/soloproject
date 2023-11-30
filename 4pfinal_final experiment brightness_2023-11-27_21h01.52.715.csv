@@ -1,0 +1,17 @@
+﻿type,origionalcolour,Redbutton.numClicks,Blue_button.numClicks,Yellow_button.numClicks,Green_button.numClicks,,,,
+furniture,red,1,0,0,0,,,,
+furniture,blue,0,1,0,0,,,colour,correct recall rate in %
+instrument,red,1,0,0,0,,,Red,100
+ktools,red,1,0,0,0,,,Blue,25
+ktools,yellow,0,0,1,0,,,Yellow,25
+instrument,yellow,0,0,0,1,,,Green,50
+instrument,blue,1,0,0,0,,,,
+furniture,green,1,0,0,0,,,,
+ktools,blue,0,0,0,1,,,,
+ktools,green,0,0,0,1,,,,
+instrument,green,0,0,0,1,,,,
+furniture,yellow,0,0,1,0,,,,
+vehical,green,0,0,0,1,,,,
+vehical,blue,1,0,0,0,,,,
+vehical,red,1,0,0,0,,,,
+vehical,yellow,0,0,0,1,,,,
